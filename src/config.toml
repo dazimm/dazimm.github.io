@@ -1,0 +1,4 @@
+baseURL = "https://dazimm.github.io/"
+languageCode = "en-us"
+title = "dazimm"
+theme = "minimal-bootstrap"
